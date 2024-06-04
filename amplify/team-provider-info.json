@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fbofinancetrackergra-staging-9f463-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730335320962:role/amplify-fbofinancetrackergra-staging-9f463-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730335320962:role/amplify-fbofinancetrackergra-staging-9f463-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-fbofinancetrackergra-staging-9f463-deployment",
+      "UnauthRoleName": "amplify-fbofinancetrackergra-staging-9f463-unauthRole",
+      "StackName": "amplify-fbofinancetrackergra-staging-9f463",
+      "StackId": "arn:aws:cloudformation:us-west-2:730335320962:stack/amplify-fbofinancetrackergra-staging-9f463/0f066d60-228c-11ef-8f38-0a1673dd3da1",
+      "AmplifyAppId": "d3q350iw10c5q3"
+    },
+    "categories": {
+      "auth": {
+        "fbofinancetrackergra7dfab224": {}
+      }
+    }
+  }
+}
